@@ -1,0 +1,41 @@
+permalink:           pretty
+
+# Setup
+title:               'Artificial Intelligence'
+url:                 https://atcold.github.io/NYU-AISP24/
+baseurl:             '/NYU-AISP24'
+homepage_title:      Home
+default_lang:        'en'
+
+# About/contact
+author:
+name:                atcold
+url:                 https://twitter.com/alfcnz
+github:
+  repo:              https://github.com/atcold/NYU-AISP24
+
+# Custom vars
+version:             aisp24
+
+src:                 "."
+default_theme:       "ayu"
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+# For Maths
+markdown:            kramdown
+
+# To use hljs, disable the default highlighter
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+  math_engine: null
+
+exclude:
+  - jekyllbook
+  - en/index.md
+  - vendor
