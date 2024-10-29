@@ -33,9 +33,9 @@ Working on this course and teaching my Deep Learning one took *all* my time. The
  2. Discrete probability recap, Naïve Bayes classification [🖥](https://drive.google.com/file/d/1JeicRQ0-QL_IZvZOb_U0SktvVKi99VlS/) [🖥](https://drive.google.com/file/d/18mGpD4g6qZeVnmquPFRB4c8vaK2eWQCv/) [📝](https://drive.google.com/file/d/1vNzW9j8jLRYBkCjMkhKKjAUcBKH5jVad/) [🎥](https://youtu.be/ys-G9uEW3O0)
     - RN, chapter 12 – Quantifying uncertainty
  3. Naïve Bayes parameters estimation and Laplace smoothing [🖥](https://drive.google.com/file/d/1W_yOXxluoy95JdLlPLyC4pEPZBdyDpaN/) [🎥](https://youtu.be/xkS9GyujiqQ)
- 4. Binary classifier evaluation, binary Perceptron [🖥](https://drive.google.com/file/d/1Btb5d3sKxLmjJkpllRRP-OLAX01LodMb/) [🖥](https://drive.google.com/file/d/1B98r5-cY-sZPPZcoWibbOmwl9Nfe0vYy/)
- 5. Multiclass perceptron, binary and multiclass logistic regression [🖥](https://drive.google.com/file/d/1SKWC1ZtHXq6_PzjWVZGzYRVzqau8KKjS/) [🖥](https://drive.google.com/file/d/1PS-K_on0imGZLJi9YNOorLUqqaxJEkY7/)
- 6. Optimisation (gradient ascent) [🖥](https://drive.google.com/file/d/1hDknQfrqECkOQeIlfDRzju5rAiVFmFWO/)
+ 4. Binary classifier evaluation, binary Perceptron [🖥](https://drive.google.com/file/d/1Btb5d3sKxLmjJkpllRRP-OLAX01LodMb/) [🖥](https://drive.google.com/file/d/1B98r5-cY-sZPPZcoWibbOmwl9Nfe0vYy/) [🎥](https://youtu.be/sg_vQvmwK44)
+ 5. Multiclass perceptron, binary and multiclass logistic regression [🖥](https://drive.google.com/file/d/1SKWC1ZtHXq6_PzjWVZGzYRVzqau8KKjS/) [🖥](https://drive.google.com/file/d/1PS-K_on0imGZLJi9YNOorLUqqaxJEkY7/) [🎥](https://youtu.be/i31lQ18Gcbc)
+ 6. Optimisation (gradient ascent) [🖥](https://drive.google.com/file/d/1hDknQfrqECkOQeIlfDRzju5rAiVFmFWO/) [🎥](https://youtu.be/WYnYCKXVfhg)
  7. Statistical natural language processing [🖥](https://drive.google.com/file/d/1Z38bqW6bq6bop0xfI49KLge0ZzLjPfLn/)
     - RN, chapter 23 – Natural language processing\
       Sections 23.1.0–23.1.4, 23.1.7, 23.6
